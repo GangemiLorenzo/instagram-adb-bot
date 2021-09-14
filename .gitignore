@@ -1,0 +1,10 @@
+*.pyc
+
+__pycache__/
+.vscode/
+.vs/
+
+
+.DS_Store
+supp.py
+screen.png
